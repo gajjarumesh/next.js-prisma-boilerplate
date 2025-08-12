@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["app/*"],
+      "@/libx/*": ["app/libx/*"],
+      "@/controllers/*": ["app/controllers/*"]
+    }
+  }
+}
