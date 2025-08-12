@@ -7,10 +7,9 @@ A clean and simple starter kit for building modern full-stack apps with **Next.j
 - 🗄 Prisma ORM with type-safe queries
 - 📂 Clean folder structure
 - 🛡 Safe Prisma client setup for dev & prod
-- 📝 Example models (`User`, `Post`) and queries
 
 ## Tech Stack
-- **Frontend & Backend:** Next.js (TypeScript)
+- **Frontend & Backend:** Next.js (Javascript)
 - **Database ORM:** Prisma
 - **Database:** PostgreSQL (can switch to MySQL or SQLite)
 
